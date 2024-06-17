@@ -1,0 +1,1 @@
+g++ -o output main.cpp -lraylib -lopengl32 -lgdi32 -lwinmm
